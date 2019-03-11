@@ -1,0 +1,21 @@
+{
+  "name": "douban-group",
+  "version": "1.0.0",
+  "description": "豆瓣小组帖子过滤器",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "robberfre",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
